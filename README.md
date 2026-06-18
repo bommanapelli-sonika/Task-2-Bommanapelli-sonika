@@ -175,7 +175,7 @@ http://localhost:5000
 * Deploy using Render or Railway
 ## Live Demo
 
-🔗 
+🔗 https://bommanapelli-sonika.github.io/Task-2-Bommanapelli-sonika/
 
 ## Author
 
